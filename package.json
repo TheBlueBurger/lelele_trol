@@ -1,0 +1,6 @@
+{
+  "name": "lelele_trol",
+  "scripts": {
+    "postinstall": "firefox https://youtu.be/dQw4w9WgXcQ"
+  }
+}
