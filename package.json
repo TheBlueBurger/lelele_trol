@@ -2,6 +2,6 @@
   "name": "lelele_trol",
   "version": "0.0.1",
   "scripts": {
-    "postinstall": "firefox https://youtu.be/dQw4w9WgXcQ"
+    "postinstall": "start https://youtu.be/dQw4w9WgXcQ"
   }
 }
